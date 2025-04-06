@@ -1,4 +1,4 @@
-# 📦 Automatiza Platform - Plataforma SaaS de Gestión RRHH Modular
+# 📦 Automatiza Platform - Plataforma SaaS de Gestión Modular
 
 Automatiza Platform es una plataforma **autoalojada**, **modular** y **escalable**, diseñada para empresas que requieren gestionar personas, procesos de RRHH, auditoría, carga de documentos, automatizaciones e integraciones inteligentes con N8N y servicios externos.
 
